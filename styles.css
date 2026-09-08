@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f0f4f8;
+    background-color: #9972ae;
     color: #333;
     line-height: 1.6;
 }
@@ -20,7 +20,7 @@ body {
 
 /* Header */
 header {
-    background: linear-gradient(135deg, #1a3a5c, #2a6f8f);
+    background: linear-gradient(135deg, #658ab2, #cc6ae7);
     color: white;
     padding: 40px 0;
     text-align: center;
